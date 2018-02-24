@@ -3824,7 +3824,7 @@
 			animation: none;
 			background-color: transparent;
 			box-shadow: none;
-			overflow: scroll;
+			overflow: hidden;
 			position: absolute;
 			top: 1.5em;
 		}
