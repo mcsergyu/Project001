@@ -3822,9 +3822,9 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background-color: chartreuse;
+			background-color: transparent;
 			box-shadow: none;
-			overflow: hidden;
+			overflow: scroll;
 			position: absolute;
 			top: 1.5em;
 		}
